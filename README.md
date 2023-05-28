@@ -1,16 +1,19 @@
-# insta_clone_coding
+## Instagram Clone Coding Project
 
-A new Flutter project.
+This repository is an Instagram clone coding project that aims to implement features including user registration, login, profile management, post uploading, timeline, and likes/comments functionality.
 
-## Getting Started
+You can find detailed information in the code and documentation within the repository.
 
-This project is a starting point for a Flutter application.
+Repository Link: [Github Repository Link]
 
-A few resources to get you started if this is your first Flutter project:
+Development Framework:
+- Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Features:
+- User registration and login
+- Profile management
+- Post uploading
+- Timeline
+- Likes and comments
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This repository serves as an Instagram clone coding project. It provides a simplified implementation of the core functionalities for educational purposes. For more information, please refer to the repository.
