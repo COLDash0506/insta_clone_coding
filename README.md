@@ -8,12 +8,12 @@ Development Framework:
 - Flutter
 
 Features:
-(to be implemented)
 - User registration and login
 - Profile management
 - Post uploading
 - Timeline
 - Likes and comments
+(to be implemented)
 
 This repository serves as an Instagram clone coding project. 
 It provides a simplified implementation of the core functionalities for educational purposes. 
